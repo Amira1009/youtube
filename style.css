@@ -69,11 +69,6 @@ header form input {
     border-top-left-radius: 50px;
     margin: -4px;
 
-
-
-
-
-
 }
 
 
@@ -136,10 +131,7 @@ button:hover{
 .container3 {
     display: flex;
     justify-content: space-between;
-    box-sizing: border-box;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 1200px;
+
 }
 
 
